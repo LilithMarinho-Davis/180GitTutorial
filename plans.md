@@ -1,3 +1,4 @@
 # Git Tutorial!  
 What are your plans for the weekend?
-this is a branch example!
+
+I have so much homework even though it's only week 1!!!!!
